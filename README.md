@@ -1,4 +1,5 @@
 #Descripción de mi software
+
 El software que he desarrollado en Python es una versión interactiva del famoso juego de "piedra, papel o tijera". Permite a los jugadores elegir entre piedra, papel o tijera, y determina al ganador 
 siguiendo las reglas clásicas del juego.
 
