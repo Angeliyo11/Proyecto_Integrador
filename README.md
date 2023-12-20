@@ -6,7 +6,9 @@ siguiendo las reglas clásicas del juego.
 #Funcionalidades Principales
 
 *Solicita al usuario que elija entre piedra, papel o tijera.
+
 *Determina al ganador del juego según las reglas establecidas.
+
 *Permite jugar múltiples veces sin necesidad de reiniciar el programa.
 
 #Datos del Grupo
